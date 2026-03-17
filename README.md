@@ -1,8 +1,8 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # hey, i'm vahagn 👋
 
-**software developer ・ network engineer ・ security architect**
+**software developer · network engineer · security architect**
 
 [![Location](https://img.shields.io/badge/Seattle,%20WA-171515?style=flat&logo=googlemaps&logoColor=white)](https://github.com/vahagn-madatyan)
 [![Website](https://img.shields.io/badge/vahagn.dev-000?style=flat&logo=astro&logoColor=white)](https://vahagn.dev)
@@ -58,4 +58,3 @@ tools        tmux · docker · terraform · github actions
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vahagn-madatyan&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 </div>
-]]>
