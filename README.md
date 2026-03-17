@@ -28,7 +28,7 @@ currently at **Accenture** leading global cybersecurity, zero trust, and enterpr
 🔧 **[netsec-skills-suite](https://github.com/vahagn-madatyan/netsec-skills-suite)** — the complete network & security skills toolkit  
 🎯 **[polyagents](https://github.com/vahagn-madatyan/polyagents)** — autonomous AI agents for trading on Polymarket  
 🧠 **[dgx-spark-lab](https://github.com/vahagn-madatyan/dgx-spark-lab)** — DGX Spark hands-on ML training lab — fine-tuning, training, and deployment · [try on computer](https://www.perplexity.ai/computer/tasks/nvidia-ai-certification-study-jGsllbvLQiiP1u.k1iq03A?view=thread)  
-📜 **[nvidia-cert-tracker](https://github.com/vahagn-madatyan/nvidia-cert-tracker)** — interactive dashboard for tracking NVIDIA NCA-AIIO & NCA-GENL cert progress · [try on computer](https://www.perplexity.ai/computer/tasks/nvidia-ai-certification-study-jGsllbvLQiiP1u.k1iq03A?view=thread)  
+📜 **[nvidia-cert-tracker](https://github.com/vahagn-madatyan/nvidia-cert-tracker)** — interactive dashboard for tracking NVIDIA NCA-AIIO & NCA-GENL cert progress · [try on computer](https://www.perplexity.ai/computer/tasks/nvidia-ai-certification-study-jGsllbvLQiiP1u.k1iq03A?view=thread#3)  
 🌍 **[me](https://github.com/vahagn-madatyan/me)** — personal site & blog built with Astro ([vahagn.dev](https://vahagn.dev))  
 🎮 **[ollama-parks](https://github.com/vahagn-madatyan/ollama-parks)** — GPT 5.4 Park game recreated by 4 open source models via Ollama  
 ♟️ **[chess-by-opensource](https://github.com/vahagn-madatyan/chess-by-opensource)** — chess built entirely by open source models via OpenRouter  
