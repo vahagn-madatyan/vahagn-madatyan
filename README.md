@@ -18,7 +18,7 @@ currently at **Accenture** leading global cybersecurity, zero trust, and enterpr
 ### what i'm working on
 
 🔒 **[PolicyFoundry](https://github.com/vahagn-madatyan/PolicyFoundry)** — ai-powered security policy engine with Terraform + Docker  
-📈 **[wheeely](https://github.com/vahagn-madatyan/wheeely)** — automated options wheel strategy trading bot (Alpaca API)  
+📈 **[wheel-it](https://github.com/vahagn-madatyan/wheel-it)** — automated options wheel strategy trading bot (Alpaca API)  
 📊 **[wheel-it-screener](https://github.com/vahagn-madatyan/wheel-it-screener)** — options screener for wheel strategy stock & chain selection  
 🛡️ **[0xpwn](https://github.com/vahagn-madatyan/0xpwn)** — fully agentic AI pentesting & security toolkit  
 🖥️ **[lumon](https://github.com/vahagn-madatyan/lumon)** — mission control dashboard for managing AI agents  
