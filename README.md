@@ -23,8 +23,11 @@ currently at **Accenture** leading global cybersecurity, zero trust, and enterpr
 🛡️ **[0xpwn](https://github.com/vahagn-madatyan/0xpwn)** — fully agentic AI pentesting & security toolkit  
 🖥️ **[lumon](https://github.com/vahagn-madatyan/lumon)** — mission control dashboard for managing AI agents  
 🌐 **[zscaler-mcp-deployer](https://github.com/vahagn-madatyan/zscaler-mcp-deployer)** — MCP server for Zscaler automation  
+🚀 **[deploy-zscaler-mcp](https://github.com/vahagn-madatyan/deploy-zscaler-mcp)** — quick CLI tool to deploy Zscaler MCP  
 📡 **[juniper-mist-mcp](https://github.com/vahagn-madatyan/juniper-mist-mcp)** — MCP server for Juniper Mist network management  
 🔧 **[netsec-skills-suite](https://github.com/vahagn-madatyan/netsec-skills-suite)** — the complete network & security skills toolkit  
+🎯 **[polyagents](https://github.com/vahagn-madatyan/polyagents)** — autonomous AI agents for trading on Polymarket  
+🌍 **[me](https://github.com/vahagn-madatyan/me)** — personal site & blog built with Astro ([vahagn.dev](https://vahagn.dev))  
 🎮 **[ollama-parks](https://github.com/vahagn-madatyan/ollama-parks)** — GPT 5.4 Park game recreated by 4 open source models via Ollama  
 ♟️ **[chess-by-opensource](https://github.com/vahagn-madatyan/chess-by-opensource)** — chess built entirely by open source models via OpenRouter  
 
