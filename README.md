@@ -13,7 +13,7 @@
 
 i build things that run while i sleep — trading bots, security automation, AI agents, and the infrastructure that keeps them all alive 24/7.
 
-currently at **Accenture** leading global cybersecurity, zero trust, and enterprise network architecture. outside of that, i'm deep in the weeds building agentic AI systems, automating options strategies, and shipping open source tools for network security.
+currently at **Accenture** leading global cybersecurity, zero trust, and enterprise network architecture, automations & assets. outside of that, i'm deep in the weeds building agentic AI systems, automating options strategies, and shipping open source tools for network security.
 
 ### what i'm working on
 
