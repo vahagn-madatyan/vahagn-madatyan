@@ -25,7 +25,7 @@ currently at **Accenture** leading global cybersecurity, zero trust, and enterpr
 🚀  **[zscaler-mcp-deployer](https://github.com/vahagn-madatyan/zscaler-mcp-deployer)** — quick CLI tool to deploy Zscaler MCP  
 📡 **[juniper-mist-mcp](https://github.com/vahagn-madatyan/juniper-mist-mcp)** — MCP server for Juniper Mist network management  
 🔧 **[netsec-skills-suite](https://github.com/vahagn-madatyan/netsec-skills-suite)** — the complete network & security skills toolkit  
-🎯 **[polyagents](https://github.com/vahagn-madatyan/polyagents)** — autonomous AI agents for trading on Polymarket  
+🎯 **[predikt](https://github.com/vahagn-madatyan/predikt)** — autonomous AI agents for trading on Polymarket  
 🧠 **[dgx-spark-lab](https://github.com/vahagn-madatyan/dgx-spark-lab)** — DGX Spark hands-on ML training lab — fine-tuning, training, and deployment · [try on computer](https://www.perplexity.ai/computer/a/dgx-spark-training-dashboard-WALc9ax0R4CDxBobo0Mhyg)  
 📜 **[nvidia-cert-tracker](https://github.com/vahagn-madatyan/nvidia-cert-tracker)** — interactive dashboard for tracking NVIDIA NCA-AIIO & NCA-GENL cert progress · [try on computer](https://www.perplexity.ai/computer/tasks/nvidia-ai-certification-study-jGsllbvLQiiP1u.k1iq03A?view=thread#3)  
 🌍 **[me](https://github.com/vahagn-madatyan/me)** — personal site & blog built with Astro ([vahagn.dev](https://vahagn.dev))  
