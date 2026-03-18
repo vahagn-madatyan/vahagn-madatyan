@@ -22,8 +22,7 @@ currently at **Accenture** leading global cybersecurity, zero trust, and enterpr
 📊 **[wheel-it-screener](https://github.com/vahagn-madatyan/wheel-it-screener)** — options screener for wheel strategy stock & chain selection  
 🛡️ **[0xpwn](https://github.com/vahagn-madatyan/0xpwn)** — fully agentic AI pentesting & security toolkit  
 🖥️ **[lumon](https://github.com/vahagn-madatyan/lumon)** — mission control dashboard for managing AI agents  
-🌐 **[zscaler-mcp-deployer](https://github.com/vahagn-madatyan/zscaler-mcp-deployer)** — MCP server for Zscaler automation  
-🚀 **[deploy-zscaler-mcp](https://github.com/vahagn-madatyan/deploy-zscaler-mcp)** — quick CLI tool to deploy Zscaler MCP  
+🚀  **[zscaler-mcp-deployer](https://github.com/vahagn-madatyan/zscaler-mcp-deployer)** — quick CLI tool to deploy Zscaler MCP  
 📡 **[juniper-mist-mcp](https://github.com/vahagn-madatyan/juniper-mist-mcp)** — MCP server for Juniper Mist network management  
 🔧 **[netsec-skills-suite](https://github.com/vahagn-madatyan/netsec-skills-suite)** — the complete network & security skills toolkit  
 🎯 **[polyagents](https://github.com/vahagn-madatyan/polyagents)** — autonomous AI agents for trading on Polymarket  
