@@ -15,19 +15,9 @@ i build things that run while i sleep — trading bots, security automation, AI 
 
 currently at **Accenture** leading global cybersecurity, zero trust, and enterprise network architecture, automations & assets. outside of that, i'm deep in the weeds building agentic AI systems, automating options strategies, and shipping open source tools for network security.
 
-### 🌐 zephron — autonomous enterprise networking
-
-building a fully autonomous AI network platform that brings [self-configuring, self-monitoring, self-healing networks](https://www.nvidia.com/en-us/glossary/autonomous-networks/) to enterprise infrastructure.
-
-| repo | what it does | license |
-|------|-------------|---------|
-| [zephron-engine](https://github.com/vahagn-madatyan/zephron-engine) | autonomous network engine — the open-source core | Apache 2.0 |
-| [zephron-cloud](https://github.com/vahagn-madatyan/zephron-cloud) | cloud-hosted platform with free & enterprise tiers | Enterprise |
-| [zephron-portal](https://github.com/vahagn-madatyan/zephron-portal) | NaaS customer portal & MSP white-label platform | Enterprise |
-| [zephron-web](https://github.com/vahagn-madatyan/zephron-web) | landing page & marketing site | BSL 1.1 |
-
 ### what i'm working on
 
+🌐 **[zephron](https://github.com/vahagn-madatyan/zephron)** — fully autonomous AI network platform for enterprise infrastructure  
 🔒 **[PolicyFoundry](https://github.com/vahagn-madatyan/PolicyFoundry)** — ai-powered security policy engine with Terraform + Docker  
 📈 **[wheel-it](https://github.com/vahagn-madatyan/wheel-it)** — automated options wheel strategy trading bot (Alpaca API)  
 📊 **[wheel-it-screener](https://github.com/vahagn-madatyan/wheel-it-screener)** — options screener for wheel strategy stock & chain selection  
